@@ -1,0 +1,4 @@
+# Cloudflare Pages static site. No build or runtime dependencies are needed.
+name = "tanke2"
+pages_build_output_dir = "."
+compatibility_date = "2026-10-13"
